@@ -469,7 +469,7 @@ summary::marker {
 }
 
 #contact p {
-    font-size: 5dvw;
+    font-size: clamp(3dvw, 2dvw, 1.5rem);
 }
 
 footer {
